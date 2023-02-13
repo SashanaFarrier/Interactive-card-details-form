@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/SashanaFarrier/Interactive-card-details-form)
-- Live Site URL: [Netlify](interactive-card-form-sashanafarrier.netlify.app)
+- Live Site URL: [Netlify](https://interactive-card-form-sashanafarrier.netlify.app)
 
 ## My process
 
